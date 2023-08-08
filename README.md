@@ -1,4 +1,4 @@
-# Web 3 Starter kit
+# Solidity_Frontend_Integration
 
 This project is a starter kit for simple web3 projects. I contains a custom deploy script that write the address and abi to `/frontend/src/components/interface.json`. It also contains a simple storage smart contract
 
